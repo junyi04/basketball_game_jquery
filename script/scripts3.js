@@ -1,4 +1,3 @@
-
 let computer = {
   score: 0,
   percent2: 0.5,
